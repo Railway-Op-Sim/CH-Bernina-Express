@@ -3,6 +3,6 @@ ttb_files = [ "RhB_BerninaPass_2020.ttb",]
 ssn_files = []
 country_code = "CH"
 name = "Rhaetian Railway: Bernina Express"
-description = "Depiction of route from the route between St. Moritz in Switzerland and Tirano in Italy"
+description = "Depiction of the route between St. Moritz in Switzerland and Tirano in Italy"
 display_name = "Bernina Express"
 author = "Krizar"
